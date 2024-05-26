@@ -4,3 +4,4 @@ sch: https://github.com/search?q=php%20proxy&amp;type=repositories https://www.g
 # index:
 - https://www.php-proxy.com/
 - https://github.com/jenssegers/php-proxy
+- https://github.com/mcnemesis/proxy.php
